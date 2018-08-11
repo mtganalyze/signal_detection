@@ -22,530 +22,530 @@ Feedback
 P1P1 - Core Set 2019
 Pick 1 Pack 1
 Which Card Would You Choose?
-Forsaken Sanctuary Prodigious Growth Windreader SphinxPsychic CorrosionPsychic CorrosionAviation PioneerFiery FinishResplendent AngelTectonic RiftMentor of the MeekSleep Nicol Bolas, the Ravager Exclusion MageDivinationGargoyle SentinelWalking CorpseFell SpecterBoggart BruteAmulet of SafekeepingSpit Flame
+Knight of the Tusk Omenspeaker Doomed DissenterAjani, Adversary of TyrantsTitanic GrowthPalladia-Mors, the RuinerMeandering River Manalith Thorn LieutenantEnigma DrakeMeteor GolemMarauder's Axe
 
 
 #	 	Card Name	Score
 1	
-Resplendent Angel	2366
+Resplendent Angel	2352
 2	
-Tezzeret, Artifice Master	2316
+Tezzeret, Artifice Master	2339
 3	
-Vivien Reid	2299
+Vivien Reid	2321
 4	
-Demanding Dragon	2298
+Demanding Dragon	2305
 5	
-Lathliss, Dragon Queen	2220
+Nicol Bolas, the Ravager	2301
 6	
-Nicol Bolas, the Ravager	2208
+Ajani, Adversary of Tyrants	2287
 7	
-Ajani, Adversary of Tyrants	2189
+Lathliss, Dragon Queen	2254
 8	
-Djinn of Wishes	2176
+Banefire	2182
 9	
-Banefire	2155
+Murder	2161
 10	
-Pelakka Wurm	2140
+Hieromancer's Cage	2144
 11	
-Murder	2132
+Bone Dragon	2143
 12	
-Chromium, the Mutable	2096
+Leonin Warleader	2137
 13	
-Lightning Strike	2068
+Chromium, the Mutable	2126
 14	
-Bone Dragon	2066
+Isareth the Awakener	2125
 15	
-Spit Flame	2045
+Goreclaw, Terror of Qal Sisma	2116
 16	
-Vine Mare	2041
+Djinn of Wishes	2109
 17	
-Hieromancer's Cage	2039
+Demon of Catastrophes	2102
 18	
-Vaevictis Asmadi, the Dire	2037
+Palladia-Mors, the Ruiner	2098
 19	
-Isareth the Awakener	2023
+Mentor of the Meek	2087
 20	
-Leonin Warleader	2016
+Spit Flame	2086
 21	
-Cleansing Nova	2015
+Sigiled Sword of Valeron	2077
 22	
-Palladia-Mors, the Ruiner	2014
+Vaevictis Asmadi, the Dire	2076
 23	
-Dryad Greenseeker	2013
+Pelakka Wurm	2069
 24	
-Thorn Lieutenant	2012
+Lich's Caress	2056
 25	
-Mentor of the Meek	1989
+Windreader Sphinx	2047
 26	
-Goreclaw, Terror of Qal Sisma	1983
+Cleansing Nova	2031
 27	
-Luminous Bonds	1974
+Vine Mare	2019
 28	
-Windreader Sphinx	1966
+Lena, Selfless Champion	2013
 29	
-Volcanic Dragon	1959
+Dryad Greenseeker	2012
 30	
-Hungering Hydra	1958
+Graveyard Marshal	2000
 31	
-Lich's Caress	1955
+Lightning Strike	2000
 32	
-Electrify	1947
+Herald of Faith	1990
 33	
-Valiant Knight	1943
+Electrify	1984
 34	
-Sigiled Sword of Valeron	1937
+Hungering Hydra	1983
 35	
-Heroic Reinforcements	1936
+Patient Rebuilding	1980
 36	
-Psychic Symbiont	1934
+Luminous Bonds	1979
 37	
-Sarkhan, Fireblood	1932
+Vampire Sovereign	1968
 38	
-Dismissive Pyromancer	1928
+Skyrider Patrol	1940
 39	
-Herald of Faith	1928
+Angel of the Dawn	1937
 40	
-Shock	1923
+Sai, Master Thopterist	1934
 41	
-Poison-Tip Archer	1907
+Volcanic Dragon	1934
 42	
-Sarkhan's Unsealing	1905
+Exclusion Mage	1924
 43	
-Skyrider Patrol	1900
+Sarkhan, Fireblood	1924
 44	
-Arcades, the Strategist	1896
+Mystic Archaeologist	1910
 45	
-Lena, Selfless Champion	1879
+Vigilant Baloth	1906
 46	
-Graveyard Marshal	1877
+Dismissive Pyromancer	1903
 47	
-Regal Bloodlord	1871
+Valiant Knight	1903
 48	
-Horizon Scholar	1869
+Star-Crowned Stag	1888
 49	
-Departed Deckhand	1868
+Pegasus Courser	1874
 50	
-Sai, Master Thopterist	1868
+Thorn Lieutenant	1870
 51	
-Mystic Archaeologist	1860
+Horizon Scholar	1865
 52	
-Vampire Sovereign	1850
+Heroic Reinforcements	1861
 53	
-Angel of the Dawn	1847
+Prodigious Growth	1859
 54	
-Runic Armasaur	1846
+Arcades, the Strategist	1855
 55	
-Star-Crowned Stag	1844
+Departed Deckhand	1855
 56	
-Exclusion Mage	1839
+Shock	1852
 57	
-Patient Rebuilding	1837
+Poison-Tip Archer	1845
 58	
-Prodigious Growth	1832
+Regal Bloodlord	1836
 59	
-Pegasus Courser	1819
+Death Baron	1833
 60	
-Demon of Catastrophes	1816
+Psychic Symbiont	1828
 61	
-Vigilant Baloth	1804
+Meteor Golem	1820
 62	
-Siegebreaker Giant	1797
+Strangling Spores	1819
 63	
-Declare Dominance	1793
+Ajani's Pridemate	1817
 64	
-Rabid Bite	1780
+Draconic Disciple	1817
 65	
-Strangling Spores	1772
+Take Vengeance	1814
 66	
-Aven Wind Mage	1771
+Knightly Valor	1804
 67	
-Druid of the Cowl	1755
+Rabid Bite	1802
 68	
-Vivien's Invocation	1754
+Druid of the Cowl	1798
 69	
-Enigma Drake	1753
+Militia Bugler	1796
 70	
-Sleep	1753
+Sarkhan's Unsealing	1779
 71	
-Plague Mare	1744
+Skyscanner	1772
 72	
-Goblin Trashmaster	1743
+Plague Mare	1767
 73	
-Gallant Cavalry	1741
+Declare Dominance	1760
 74	
-Boggart Brute	1738
+Skymarch Bloodletter	1756
 75	
-Remorseful Cleric	1738
+Transmogrifying Wand	1753
 76	
-Militia Bugler	1737
+Essence Scatter	1752
 77	
-Death Baron	1736
+Gravedigger	1748
 78	
-Dark-Dweller Oracle	1735
+Runic Armasaur	1746
 79	
-Sparktongue Dragon	1724
+Skilled Animator	1744
 80	
-Sift	1718
+Sleep	1744
 81	
-Colossal Dreadmaw	1715
+Ajani's Last Stand	1740
 82	
-Essence Scatter	1713
+Fell Specter	1730
 83	
-Gravedigger	1712
+Gallant Cavalry	1730
 84	
-Liliana's Contract	1704
+Enigma Drake	1729
 85	
-Aviation Pioneer	1702
+Volley Veteran	1724
 86	
-Volley Veteran	1701
+Surge Mare	1723
 87	
-Ajani's Last Stand	1699
+Ravenous Harpy	1722
 88	
-Skymarch Bloodletter	1698
+Aven Wind Mage	1720
 89	
-Open the Graves	1696
+Sparktongue Dragon	1718
 90	
-Brawl-Bash Ogre	1694
+Aviation Pioneer	1714
 91	
-Guttersnipe	1690
+Chaos Wand	1714
 92	
-Chaos Wand	1688
+Aerial Engineer	1706
 93	
-Draconic Disciple	1683
+Siegebreaker Giant	1702
 94	
-Reclamation Sage	1680
+Sift	1702
 95	
-Knightly Valor	1678
+Vivien's Invocation	1700
 96	
-Switcheroo	1678
+Omenspeaker	1695
 97	
-Elvish Rejuvenator	1677
+Guttersnipe	1693
 98	
-Ghastbark Twins	1675
+Reclamation Sage	1689
 99	
-Transmogrifying Wand	1675
+Daggerback Basilisk	1687
 100	
-Take Vengeance	1673
+Dwindle	1686
 101	
-Daggerback Basilisk	1670
+Brawl-Bash Ogre	1682
 102	
-Omenspeaker	1665
+Skeleton Archer	1680
 103	
-Meteor Golem	1654
+Shield Mare	1670
 104	
-Dragon Egg	1653
+Ghastbark Twins	1669
 105	
-Disperse	1651
+Remorseful Cleric	1666
 106	
-Ajani's Pridemate	1643
+Liliana's Contract	1664
 107	
-Fell Specter	1643
+Dragon Egg	1663
 108	
-Lightning Mare	1643
+Elvish Rejuvenator	1661
 109	
-Bristling Boar	1633
+Boggart Brute	1658
 110	
-Havoc Devils	1633
+Bristling Boar	1653
 111	
-Gift of Paradise	1632
+Giant Spider	1651
 112	
-Colossal Majesty	1629
+Goblin Instigator	1647
 113	
-Shield Mare	1627
+Switcheroo	1646
 114	
-Reassembling Skeleton	1620
+Aethershield Artificer	1639
 115	
-Rhox Oracle	1616
+Reassembling Skeleton	1638
 116	
-Skeleton Archer	1615
+Gargoyle Sentinel	1636
 117	
-Gigantosaurus	1612
+Colossal Dreadmaw	1634
 118	
-Psychic Corrosion	1609
+Open the Graves	1631
 119	
-Aerial Engineer	1608
+Salvager of Secrets	1630
 120	
-Salvager of Secrets	1603
+Dark-Dweller Oracle	1626
 121	
-Snapping Drake	1603
+Rise from the Grave	1624
 122	
-Divination	1601
+Goblin Trashmaster	1621
 123	
-Dwindle	1600
+Psychic Corrosion	1610
 124	
-Centaur Courser	1598
+Supreme Phantom	1607
 125	
-Surge Mare	1598
+Metamorphic Alteration	1600
 126	
-Viashino Pyromancer	1598
+Cavalry Drillmaster	1597
 127	
-Goblin Instigator	1592
+Rhox Oracle	1597
 128	
-Skilled Animator	1590
+Leonin Vanguard	1593
 129	
-Thornhide Wolves	1582
+Colossal Majesty	1590
 130	
-Vampire Neonate	1582
+Snapping Drake	1589
 131	
-Metamorphic Alteration	1579
+Mirror Image	1586
 132	
-Mirror Image	1579
+Vampire Neonate	1585
 133	
-Dwarven Priest	1578
+Epicure of Blood	1578
 134	
-Druid of Horns	1569
+Centaur Courser	1568
 135	
-Ravenous Harpy	1569
+Divination	1567
 136	
-Ghirapur Guide	1561
+Diamond Mare	1563
 137	
-Skyscanner	1561
+Havoc Devils	1562
 138	
-Marauder's Axe	1555
+Arcane Encyclopedia	1559
 139	
-Leonin Vanguard	1552
+Viashino Pyromancer	1556
 140	
-Blanchwood Armor	1546
+Doomed Dissenter	1550
 141	
-Rise from the Grave	1541
+Disperse	1538
 142	
-Blood Divination	1540
+Fountain of Renewal	1534
 143	
-Suspicious Bookcase	1538
+Ghirapur Guide	1532
 144	
-Act of Treason	1528
+Make a Stand	1528
 145	
-Epicure of Blood	1528
+Satyr Enchanter	1525
 146	
-Giant Spider	1523
+Dwarven Priest	1524
 147	
-Talons of Wildwood	1517
+Goblin Motivator	1508
 148	
-Phylactery Lich	1516
+Liliana, Untouched by Death	1506
 149	
-Arcane Encyclopedia	1511
+Lightning Mare	1504
 150	
-Dragon's Hoard	1510
+Marauder's Axe	1504
 151	
-Frilled Sea Serpent	1508
+Nightmare's Thirst	1504
 152	
-Manalith	1507
+Fiery Finish	1498
 153	
-Scholar of Stars	1507
+Gift of Paradise	1497
 154	
-Supreme Phantom	1507
+Cancel	1490
 155	
-Fountain of Renewal	1499
+Suspicious Bookcase	1489
 156	
-Aethershield Artificer	1498
+Dragon's Hoard	1488
 157	
-Gargoyle Sentinel	1498
+Macabre Waltz	1483
 158	
-Inferno Hellion	1498
+Bone to Ash	1482
 159	
-Titanic Growth	1498
+Blood Divination	1481
 160	
-Greenwood Sentinel	1497
+Hostile Minotaur	1481
 161	
-Hostile Minotaur	1490
+Inferno Hellion	1478
 162	
-Goblin Motivator	1488
+Phylactery Lich	1475
 163	
-Oreskos Swiftclaw	1487
+Druid of Horns	1472
 164	
-Oakenform	1486
+Greenwood Sentinel	1471
 165	
-Bone to Ash	1480
+Manalith	1467
 166	
-Satyr Enchanter	1478
+Thornhide Wolves	1458
 167	
-Diamond Mare	1474
+Talons of Wildwood	1457
 168	
-Sure Strike	1470
+Hired Blade	1454
 169	
-Trumpet Blast	1470
+Gearsmith Guardian	1451
 170	
-Abnormal Endurance	1469
+Gigantosaurus	1451
 171	
-Cavalry Drillmaster	1463
+Novice Knight	1447
 172	
-Make a Stand	1454
+Act of Treason	1446
 173	
-Hired Blade	1452
+Child of Night	1439
 174	
-Totally Lost	1447
+Diregraf Ghoul	1439
 175	
-Macabre Waltz	1444
+Inspired Charge	1439
 176	
-Novice Knight	1444
+Two-Headed Zombie	1438
 177	
-Cancel	1443
+Frilled Sea Serpent	1437
 178	
-Fiery Finish	1442
+Daybreak Chaplain	1436
 179	
-Gearsmith Guardian	1441
+Sure Strike	1436
 180	
-Aether Tunnel	1440
+Abnormal Endurance	1435
 181	
-Child of Night	1440
+Trusty Packbeast	1418
 182	
-Anticipate	1434
+Blanchwood Armor	1412
 183	
-Doomed Dissenter	1430
+Explosive Apparatus	1411
 184	
-Lava Axe	1422
+Anticipate	1410
 185	
-Nightmare's Thirst	1420
+Oakenform	1408
 186	
-Plummet	1416
+Thud	1403
 187	
-Thud	1413
+Titanic Growth	1403
 188	
-Fire Elemental	1410
+Scholar of Stars	1396
 189	
-Onakke Ogre	1410
+Rogue's Gloves	1395
 190	
-Diregraf Ghoul	1409
+Totally Lost	1391
 191	
-Recollect	1409
+Aether Tunnel	1387
 192	
-Knight's Pledge	1408
+Oreskos Swiftclaw	1382
 193	
-Liliana, Untouched by Death	1403
+Wall of Mist	1378
 194	
-Explosive Apparatus	1398
+Invoke the Divine	1372
 195	
-Trusty Packbeast	1397
+Onakke Ogre	1372
 196	
-Highland Game	1392
+Recollect	1359
 197	
-Mighty Leap	1392
+Mighty Leap	1358
 198	
-Uncomfortable Chill	1390
+Uncomfortable Chill	1354
 199	
-Two-Headed Zombie	1385
+Rupture Spire	1336
 200	
-Elvish Clancaller	1380
+Knight's Pledge	1330
 201	
-Mind Rot	1377
+Elvish Clancaller	1328
 202	
-Rustwing Falcon	1375
+Mind Rot	1328
 203	
-Daybreak Chaplain	1373
+Highland Lake	1325
 204	
-Tormenting Voice	1373
+Naturalize	1324
 205	
-Inspired Charge	1363
+Woodland Stream	1324
 206	
-Invoke the Divine	1362
+Trumpet Blast	1322
 207	
-Meandering River	1360
+Ajani's Welcome	1319
 208	
-Catalyst Elemental	1357
+Plummet	1319
 209	
-Walking Corpse	1356
+Bogstomper	1310
 210	
-Woodland Stream	1353
+Highland Game	1309
 211	
-Loxodon Line Breaker	1347
+Tormenting Voice	1309
 212	
-Rogue's Gloves	1340
+Submerged Boneyard	1306
 213	
-Suncleanser	1339
+Suncleanser	1299
 214	
-Millstone	1337
+Rustwing Falcon	1292
 215	
-Scapeshift	1335
+Infernal Scarring	1279
 216	
-Ghostform	1323
+Millstone	1269
 217	
-Submerged Boneyard	1321
+One with the Machine	1268
 218	
-One with the Machine	1307
+Fire Elemental	1250
 219	
-Foul Orchard	1305
+Meandering River	1250
 220	
-Naturalize	1304
+Tectonic Rift	1249
 221	
-Ajani's Welcome	1303
+Infectious Horror	1247
 222	
-Rupture Spire	1301
+Loxodon Line Breaker	1246
 223	
-Highland Lake	1296
+Forsaken Sanctuary	1245
 224	
-Tectonic Rift	1294
+Gearsmith Prodigy	1242
 225	
-Bogstomper	1291
+Ghostform	1242
 226	
-Omniscience	1290
+Field Creeper	1236
 227	
-Doublecast	1287
+Crucible of Worlds	1223
 228	
-Wall of Mist	1283
+Timber Gorge	1223
 229	
-Knight of the Tusk	1281
+Walking Corpse	1221
 230	
-Crash Through	1272
+Cinder Barrens	1218
 231	
-Revitalize	1270
+Catalyst Elemental	1217
 232	
-Timber Gorge	1265
+Mistcaller	1217
 233	
-Tolarian Scholar	1251
+Revitalize	1216
 234	
-Forsaken Sanctuary	1247
+Foul Orchard	1210
 235	
-Stone Quarry	1243
+Lava Axe	1209
 236	
-Gearsmith Prodigy	1240
+Wall of Vines	1206
 237	
-Infernal Scarring	1225
+Knight of the Tusk	1198
 238	
-Stitcher's Supplier	1224
+Tolarian Scholar	1198
 239	
-Wall of Vines	1224
+Desecrated Tomb	1195
 240	
-Duress	1222
+Scapeshift	1194
 241	
-Field Creeper	1216
+Doublecast	1185
 242	
-Tranquil Expanse	1215
+Stone Quarry	1175
 243	
-Crucible of Worlds	1208
+Root Snare	1150
 244	
-Root Snare	1203
+Sovereign's Bite	1149
 245	
-Cinder Barrens	1190
+Aegis of the Heavens	1128
 246	
-Aegis of the Heavens	1187
+Infernal Reckoning	1128
 247	
-Mistcaller	1184
+Omniscience	1125
 248	
-Fraying Omnipotence	1136
+Crash Through	1122
 249	
-Sovereign's Bite	1129
+Tranquil Expanse	1120
 250	
-Isolate	1125
+Duress	1116
 251	
-Infectious Horror	1121
+Smelt	1098
 252	
-Apex of Power	1113
+Stitcher's Supplier	1084
 253	
-Smelt	1113
+Magistrate's Scepter	1076
 254	
-Desecrated Tomb	1109
+Fraying Omnipotence	1068
 255	
-Infernal Reckoning	1103
+Detection Tower	1054
 256	
-Amulet of Safekeeping	1098
+Amulet of Safekeeping	1050
 257	
-Detection Tower	1088
+Isolate	1049
 258	
-Magistrate's Scepter	1084
+Apex of Power	1031
 259	
-Reliquary Tower	1005
+Alpine Moon	941
 260	
-Alpine Moon	998
+Reliquary Tower	928
 Hover over a row to preview cards
 
 

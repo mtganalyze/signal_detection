@@ -8,7 +8,7 @@ sd <- load_setdata(set_label)
 rd <- load_cardratings(set_label)
 
 msd <- attach_ratings(sd, rd)
-fps <- compute_firstpicks(msd)
+fps <- compute_firstpicks(msd, samplesize = 5*10^5)
 
 set.seed(100)
 samplepack <- crackapack(msd)
