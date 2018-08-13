@@ -11,8 +11,10 @@ library(dplyr)
 
 shinyUI(fluidPage(
   # Application title
-  titlePanel("M19: FPP-Distribution"),
+  titlePanel("M19: First Pick Probabilities (FPPs)"),
   mainPanel(
-    DT::dataTableOutput("fpp")
+    DT::dataTableOutput("fpp"),
+    p(""),
+    a("for details check <<MTGANALYZE: Calculation of FPPs>>", href= "https://mtganalyze.github.io/post/picks-and-preferences/" , target = "_blank")
   )
 ))
